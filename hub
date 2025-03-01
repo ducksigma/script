@@ -1,1 +1,1 @@
-Script : loadstring(game:HttpGet("https://github.com/ducksigma/pit99/blob/main/hub"))()
+Script : loadstring(game:HttpGet("https://raw.githubusercontent.com/ducksigma/pet99/refs/heads/main/hub"))()
